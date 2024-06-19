@@ -159,7 +159,7 @@ ventas de la tienda y generar informes que respondan a las preguntas planteadas.
 8. Guardar los resultados generados en un archivo CSV.
 Enunciado 2: Análisis de datos de empleados de una empresa 
 
-## Enunciado 2: Análisis de datos de empleados de una empresa
+## Enunciado 2: Análisis de datos de empleados de una empresa -> *Este me toca*
 
 ### Contexto: 
 
